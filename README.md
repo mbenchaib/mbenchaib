@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about C/C++, Linux, networking, or systems programming.
 - 📫 How to reach me: [LinkedIn]
 - ⚡ Fun fact: I started with a background in Mathematics and Applications before moving into software engineering.
--->
