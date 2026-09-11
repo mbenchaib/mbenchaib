@@ -11,3 +11,42 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting software and open-source projects.
 - 💬 Ask me about C/C++, Linux, networking, or systems programming.
 - 📫 How to reach me: [LinkedIn]
+
+## 🛠️ Skills & Technologies
+
+**Languages**
+
+* C
+* C++
+* JavaScript
+* Bash
+* Assembly
+
+**Web Development**
+
+* HTML
+* CSS
+* Node.js
+* Express
+* REST APIs
+
+**Systems & Operating Systems**
+
+* Linux
+* Unix
+* xv6
+* Processes & System Calls
+* Networking
+
+**Tools**
+
+* Git
+* Docker
+
+**Currently Learning**
+
+* React
+* TypeScript
+* PostgreSQL
+* Full-Stack Development
+* Operating Systems
