@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on interesting software and open-source projects.
 - 💬 Ask me about C/C++, Linux, networking, or systems programming.
 - 📫 How to reach me: [LinkedIn]
-- ⚡ Fun fact: I started with a background in Mathematics and Applications before moving into software engineering.
