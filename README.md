@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 * C
 * C++
 * JavaScript
-* Bash
 * Assembly
 
 **Web Development**
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 
 * Linux
 * Unix
-* xv6
+* xv6 (Operating System)
 * Processes & System Calls
 * Networking
 
@@ -48,5 +47,5 @@ Here are some ideas to get you started:
 * React
 * TypeScript
 * PostgreSQL
-* Full-Stack Development
+* Full Stack Open — University of Helsinki
 * Operating Systems
